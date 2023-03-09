@@ -2,7 +2,7 @@
 
 ADD to continue
 
-git remote add origin 
+git remote add origin https://.....
 
 git branch -M main
 
